@@ -1,6 +1,3 @@
+<h1 align="center">Olá, me chamo Raphael Eça</h1>
 
-💫 Eu sou o Raphael Eça
-
-🤓 Desenvolvedor Fullstack
-
-👨‍🎓 Atualmente estou estudando na UNIFAJ
+<h2 align ="center">💻 Desenvolvedor Fullstack 💻<br>👨‍🎓 Estudando na UNIFAJ 👨‍🎓</h2>
