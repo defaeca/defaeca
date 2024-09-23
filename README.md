@@ -10,7 +10,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&count_private=true&hide_border=true&title_color=1B15D3&icon_color=1B15D3&text_color=ffffff&bg_color=0d1117" alt="Raphael Eça github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=defaeca&bg_color=0d1117&color=ffffff&line=1b15d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -28,13 +28,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </p>
+
 <h2>Contato</h2>
-    <p>
-      <a href="mailto:raphael2904@gmail.com">
-      <img src="https://img.shields.io/badge/Email-raphael2904@gmail.com-orange?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
-        <br>
-      <a href="https://www.linkedin.com/in/raphaele%C3%A7a/">
-      <img src="https://img.shields.io/badge/LinkedIn-Raphael%20E%C3%A7a-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </p>
+<p align="center">
+  <a href="mailto:raphael2904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-raphael2904@gmail.com-orange?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/raphaele%C3%A7a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Raphael%20E%C3%A7a-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/raphaeleca/">
+    <img src="https://img.shields.io/badge/Instagram-@raphaeleca-pink?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B15D3&height=120&section=footer"/>
+
