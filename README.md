@@ -33,12 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
 
+<h2 align="center">🐍 Cobrinha dos commits:</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/defaeca/output/main/github-contribution-grid-snake.svg" alt="Cobrinha dos commits" />
+</p>
+
 <h2>Como entrar em contato:</h2>
 <ul>
   <li>Email: <a href="mailto:raphael2904@gmail.com">raphael2904@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/raphaele%C3%A7a/">Raphael Eça</a></li>
 </ul>
-<h2 align="center">🐍 Cobrinha dos commits:</h2>
-<p align="center">
-  <img src="https://github.com/defaeca/defaeca/blob/main/snake.svg" alt="Cobrinha dos commits" />
-</p>
