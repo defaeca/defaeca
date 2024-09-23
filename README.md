@@ -32,12 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </p>
-
-<h2 align="center">🐍 Cobrinha dos commits:</h2>
-![snake gif](https://github.com/defaeca/defaeca/blob/output/github-user-contribution.svg)
-
 <h2>Como entrar em contato:</h2>
 <ul>
-  <li>Email: <a href="mailto:raphael2904@gmail.com">raphael2904@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/raphaele%C3%A7a/">Raphael Eça</a></li>
+  <li>
+    <a href="mailto:raphael2904@gmail.com">
+      <img src="https://img.shields.io/badge/Email-raphael2904@gmail.com-orange?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/raphaele%C3%A7a/">
+      <img src="https://img.shields.io/badge/LinkedIn-Raphael%20E%C3%A7a-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+  </li>
 </ul>
