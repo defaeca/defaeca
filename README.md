@@ -2,23 +2,16 @@
 
 <h2 align="center">
   <br>
-    💻 Desenvolvedor Fullstack 💻
-  <br>
-  <br>
-    🎲 Amante de Lego 🎲
-  <br>
-  <br>
-    👨‍🎓 Estudando na UNIFAJ 👨‍🎓
+    💻 Desenvolvedor Fullstack | 🎲 Amante de Lego | 👨‍🎓 Estudante na UNIFAJ
   <br>
   <br>
 </h2>
 
 <img align="right" src="https://media.tenor.com/Cz3jrXfCoO4AAAAi/jiliaenfa-clubpenguinclean.gif" title="Apenas limpando" alt="Gif limpando"/>
 
-<h2>Linguagens e Status do GitHub:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&theme=dark" alt="Linguagens mais usadas no GitHub" style="vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&theme=dark" alt="Status do GitHub" style="vertical-align: top;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&theme=dark" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&theme=dark" alt="Linguagens mais usadas no GitHub" />
 </p>
 
 <h2>Tecnologias que utilizo:</h2>
