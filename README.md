@@ -15,9 +15,10 @@
 
 <img align="right" src="https://media.tenor.com/Cz3jrXfCoO4AAAAi/jiliaenfa-clubpenguinclean.gif" title="Apenas limpando" alt="Gif limpando"/>
 
-<h2>Linguagens mais usadas:</h2>
+<h2>Linguagens e Status do GitHub:</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&theme=dark" alt="Linguagens mais usadas no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&theme=dark" alt="Linguagens mais usadas no GitHub" style="vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&theme=dark" alt="Status do GitHub" style="vertical-align: top;" />
 </p>
 
 <h2>Tecnologias que utilizo:</h2>
@@ -31,7 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
 </p>
+
 <h2>Como entrar em contato:</h2>
 <ul>
   <li>
