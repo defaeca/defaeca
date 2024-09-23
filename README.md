@@ -34,12 +34,7 @@
 </p>
 
 <h2 align="center">🐍 Cobrinha dos commits:</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defaeca/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defaeca/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/defaeca/output/github-contribution-grid-snake.svg">
-</picture>
-
+![snake gif](https://github.com/defaeca/defaeca/blob/output/github-contribution-grid-snake.svg)
 
 <h2>Como entrar em contato:</h2>
 <ul>
