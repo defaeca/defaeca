@@ -34,7 +34,7 @@
 </p>
 
 <h2 align="center">🐍 Cobrinha dos commits:</h2>
-![snake gif](https://github.com/defaeca/defaeca/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/defaeca/defaeca/blob/output/github-user-contribution.svg)
 
 <h2>Como entrar em contato:</h2>
 <ul>
