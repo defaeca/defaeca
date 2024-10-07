@@ -9,8 +9,8 @@
 
 <div align="left">  
   <div style="display: flex; flex-direction: column;">
-    <!-- <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&count_private=true&hide_border=true&title_color=1B15D3&icon_color=1B15D3&text_color=ffffff&bg_color=0d1117" alt="Raphael Eça github stats" /> 
-    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" /> -->
+     <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=defaeca&show_icons=true&count_private=true&hide_border=true&title_color=1B15D3&icon_color=1B15D3&text_color=ffffff&bg_color=0d1117" alt="Raphael Eça github stats" /> 
+    <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaeca&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" /> 
   </div>
 </div>
 
